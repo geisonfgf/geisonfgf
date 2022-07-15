@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador douglas">
 
 <p align="left">
-  💼 Hi, My name is Geison, I am a software engineer specialist at Globo.com where I help design, create and scale large-scale cloud and mobile projects.
+  💼 Hi, My name is Geison, I am a Software Expert at Mercado Livre where I help design, create and scale solutions to democratize commerce, money and payments in Latam.
 </p>
 <p align="left">
   🏠 Currently living in Porto Alegre, Brazil. My interests range from software engineer to people management. I am also interested in travel, dogs, and delicious food.
